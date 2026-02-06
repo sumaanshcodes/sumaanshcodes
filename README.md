@@ -1,22 +1,76 @@
-
-## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ydv_sumansh_09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sumanshyadav) 
-
-# 💻Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Sumaanshcodes&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sumaanshcodes&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumaanshcodes&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Sumaanshcodes&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🧑‍💻Random Cyber Quote
-![](https://github-readme-cyber-quotes.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h1 align="center">Hi 👋, I'm Sumansh Yadav</h1>
+<h3 align="center">Backend-Focused Full Stack Developer | Java | Spring Boot | REST APIs</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sumaanshcodes&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 👨‍💻 About Me
+- 🎓 B.Tech CSE Student at GLA University  
+- 💻 Backend-focused developer passionate about building scalable applications  
+- 🔐 Interested in Secure Backend Systems & API Development  
+- 🌱 Currently improving **Data Structures, System Design & Backend Architecture**
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- Java
+- Spring Boot
+- Spring Security
+- REST APIs
+- JWT Authentication
+
+### Database
+- MySQL
+- SQL
+
+### Frontend
+- React (Basic)
+- HTML, CSS, Bootstrap
+
+### Tools
+- Git & GitHub
+- Postman
+- IntelliJ IDEA
+- VS Code
+
+---
+
+## 🚀 Featured Project
+
+### 🧾 Incident / Complaint Management System
+**Tech Used:** Java, Spring Boot, Spring Security, JWT, MySQL, React  
+
+✔ User authentication using JWT  
+✔ Role-based authorization (Admin / User)  
+✔ REST APIs for complaint management  
+✔ MySQL database integration  
+✔ React frontend integration  
+
+👉 Backend APIs secured using Spring Security filters  
+👉 Designed using layered architecture (Controller → Service → Repository)
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Sumaanshcodes&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sumaanshcodes&theme=tokyonight)
+
+---
+
+## 🧠 Currently Learning
+- Advanced Spring Boot
+- Microservices Basics
+- System Design Fundamentals
+- DSA (Arrays, Strings, Sliding Window, Two Pointer)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/sumanshyadav  
+- Email: sumanshyadav.1807@gmail.com
+
+---
+
+⭐ Always open to Backend / Full Stack Internship Opportunities
