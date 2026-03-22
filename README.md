@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumansh Yadav</h1>
-<h3 align="center">Backend-Focused Full Stack Developer | Java | Spring Boot | REST APIs</h3>
+<h3 align="center">Backend-Focused Full Stack Developer | Java | Node.js | Express | REST APIs</h3>
 
 ---
 
