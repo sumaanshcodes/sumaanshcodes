@@ -14,6 +14,8 @@
 ## 🛠 Tech Stack
 
 ### Backend
+- Node.js
+- Express
 - Java
 - Spring Boot
 - Spring Security
