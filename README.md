@@ -38,19 +38,34 @@
 
 ---
 
-## 🚀 Featured Project
+## Projects
 
-### 🧾 Incident / Complaint Management System
-**Tech Used:** Java, Spring Boot, Spring Security, JWT, MySQL, React  
+### CoachCode.ai – Placement Preparation Platform
 
-✔ User authentication using JWT  
-✔ Role-based authorization (Admin / User)  
-✔ REST APIs for complaint management  
-✔ MySQL database integration  
-✔ React frontend integration  
+**Tech Stack:** React, Node.js, Express.js, MySQL, Sequelize, JWT, Multer
 
-👉 Backend APIs secured using Spring Security filters  
-👉 Designed using layered architecture (Controller → Service → Repository)
+* Engineered a scalable full-stack placement preparation platform with **3 role-based dashboards (Student, Faculty, Admin)**.
+* Built and secured **RESTful APIs** with JWT-based authentication and authorization.
+* Designed modular backend architecture to support **10+ core features**, including coding practice, mock tests, study materials, and smart notes.
+* Integrated **MySQL with Sequelize ORM** for optimized relational data handling.
+* Developed a file upload and management system using Multer with validation and secure storage.
+* Created a responsive frontend using React (Vite) with reusable components for better maintainability.
+* Improved workflow efficiency by simulating real-world placement preparation systems with scalable user-role management.
+
+**GitHub:** github.com/sumaanshcodes/CoachCode.ai
+
+### Incident / Complaint Management System
+
+**Tech Stack:** Java, Spring Boot, Spring Security, JWT, MySQL, React
+
+* Built a secure full-stack complaint management system for users and administrators with role-based access control.
+* Developed robust backend services using Spring Boot following **Controller → Service → Repository layered architecture**.
+* Implemented authentication and authorization using **Spring Security + JWT** to secure APIs.
+* Designed and integrated REST APIs for incident creation, status tracking, escalation, and resolution workflows.
+* Connected MySQL database for persistent storage and optimized query performance.
+* Integrated React frontend with backend APIs for seamless complaint lifecycle management.
+* Strengthened application security with custom authentication filters and endpoint-level protection.
+
 
 ---
 
