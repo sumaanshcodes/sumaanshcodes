@@ -148,14 +148,6 @@ https://github.com/Sumaanshcodes/Incident-system
 
 ---
 
-# 🌍 Open Source Journey
-
-🚀 Selected for **Phase-2 Open Source Internship**
-at **IIT Ropar**
-
-Currently contributing to open-source projects and continuously improving collaboration, Git workflows and code quality.
-
----
 
 # 📜 Certifications
 
@@ -188,12 +180,6 @@ Currently contributing to open-source projects and continuously improving collab
 # 📊 Contribution Graph
 
 [![Sumansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sumaanshcodes&theme=tokyo-night)](https://github.com/Sumaanshcodes)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Sumaanshcodes&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
 
