@@ -159,24 +159,6 @@ https://github.com/Sumaanshcodes/Incident-system
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sumaanshcodes&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumaanshcodes&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumaanshcodes&theme=tokyonight"/>
-
-</p>
-
----
-
 # 📊 Contribution Graph
 
 [![Sumansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sumaanshcodes&theme=tokyo-night)](https://github.com/Sumaanshcodes)
