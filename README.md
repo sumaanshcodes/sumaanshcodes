@@ -1,5 +1,4 @@
-<div align="center"> 
-
+<div align="center">
 # Hi 👋, I'm Sumansh Yadav  
 
 ### Backend-Focused Full Stack Developer | Java | Spring Boot | Node.js | REST APIs
