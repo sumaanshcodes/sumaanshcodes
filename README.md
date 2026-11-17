@@ -11,7 +11,7 @@
 <tr>
 <td width="32%" align="center" valign="middle">
 
-<img src="https://sumaanshcodes.vercel.app/sumansh-avatar.png" width="190" style="border-radius:50%;" alt="Sumansh Yadav"/>
+<img src="https://sumaanshcodes.vercel.app/sumansh-avatar.png" width="200" style="border-radius:80%;" alt="Sumansh Yadav"/>
 
 </td>
 <td width="68%" valign="middle">
