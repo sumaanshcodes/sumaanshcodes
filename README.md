@@ -49,7 +49,7 @@ public class SumanshYadav {
     };
 
     String currentlyLearning =
-        "Advanced Spring Boot, Microservices & Docker";
+        "Advanced Spring Boot, Microservices";
 }
 ```
 
