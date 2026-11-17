@@ -1,180 +1,112 @@
 
-<!-- ================= HEADER ================= -->
+<!-- ================= HERO SECTION ================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=220&section=header&text=SUMANSH%20YADAV&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Aspiring%20Software%20Engineer%20%7C%20Java%20Backend%20Developer&descSize=16&descAlignY=58"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+Developer;Building+Secure+REST+APIs;Backend+%26+Full+Stack+Development;Problem+Solving+%7C+DSA;Learning+%7C+Building+%7C+Growing" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:0F2747,100:0891B2&height=250&section=header&text=SUMANSH%20YADAV&fontSize=55&fontColor=E0F2FE&fontAlignY=40&desc=ASPIRING%20SOFTWARE%20ENGINEER%20%7C%20JAVA%20BACKEND%20DEVELOPER&descSize=15&descAlignY=65&animation=fadeIn"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Designing+Secure+Backend+Systems;Building+RESTful+APIs+with+Spring+Boot;Java+%7C+Spring+Security+%7C+PostgreSQL;Full+Stack+Development+%7C+React+%7C+Node.js;Turning+Ideas+Into+Working+Software"/>
+
+<br/><br/>
+
+<a href="https://sumaanshcodes.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 <a href="https://github.com/Sumaanshcodes">
-<img src="https://img.shields.io/badge/GitHub-Profile-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-Explore%20Projects-1E293B?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://linkedin.com/in/sumanshyadav">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:sumanshyadav.1807@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sumaanshcodes&label=PROFILE+VIEWS&color=06B6D4&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Sumaanshcodes&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-<!-- ================= ABOUT ================= -->
-
-## `$ whoami`
-
-```java
-public class SumanshYadav {
-
-    String role = "Aspiring Software Engineer";
-    String specialization = "Java Backend Development";
-    String university = "GLA University, Mathura";
-    String degree = "B.Tech Computer Science & Engineering";
-    String graduation = "2028";
-
-    String[] interests = {
-        "Backend Engineering",
-        "REST API Development",
-        "System Design",
-        "Software Engineering",
-        "Open Source"
-    };
-
-    String currentlyLearning =
-        "Advanced Spring Boot, Microservices";
-}
-```
-
-- 🎓 Computer Science undergraduate at GLA University.
-- 💻 Building backend and full-stack applications.
-- 🔐 Interested in secure APIs and scalable backend systems.
-- 🚀 Java, Spring Boot, Spring Security and Node.js.
-- 🌱 Always learning and improving through projects.
-
----
-
-<!-- ================= TECH STACK ================= -->
-
-## `$ tech-stack`
+<!-- ================= BACKEND BANNER ================= -->
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=java,js,sql&theme=dark"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:061526,50:0C2945,100:164E63&height=130&section=header&text=BACKEND%20ENGINEERING&fontSize=32&fontColor=67E8F9&fontAlignY=40&desc=JAVA%20%2F%20SPRING%20BOOT%20%2F%20REST%20APIs%20%2F%20DATABASES&descSize=12&descColor=BAE6FD&descAlignY=70"/>
 
-### Backend Development
+</div>
+
+## ABOUT ME
+
+I'm a Computer Science undergraduate at **GLA University, Mathura**, passionate about backend engineering and building practical software solutions.
+
+My primary focus is Java backend development, with hands-on experience in Spring Boot, Spring Security, REST APIs and database integration.
+
+- 🎓 B.Tech CSE | 2024–2028
+- 💻 Backend-focused software developer.
+- 🔐 Interested in secure APIs and scalable applications.
+- 🚀 Experience building full-stack applications.
+- 🌱 Exploring Microservices, Docker and System Design.
+
+---
+
+## TECHNICAL EXPERTISE
+
+<div align="center">
+
+### PROGRAMMING LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=java,js,mysql&theme=dark"/>
+
+### BACKEND TECHNOLOGIES
+
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark"/>
 
-### Frontend Development
+### FRONTEND DEVELOPMENT
+
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark"/>
 
-### Databases
+### DATABASES & ORM
+
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark"/>
 
-### Tools & Technologies
+### DEVELOPMENT TOOLS
+
 <img src="https://skillicons.dev/icons?i=git,github,postman,maven,idea,vscode,docker&theme=dark"/>
 
 </div>
 
 ---
 
-<!-- ================= EXPERIENCE ================= -->
-
-## `$ experience`
-
-<details>
-<summary><b>Infosys Springboard — Java Developer Intern</b> | June 2026 – August 2026</summary>
-
-- Completed Virtual Internship 7.0 in Java Development.
-- Worked on MediStock using Java, Spring Boot and PostgreSQL.
-- Contributed to REST APIs and JWT authentication.
-- Worked on role-based access and inventory management.
-
-</details>
-
-<details>
-<summary><b>Hack4Tech Club — Technical Team Lead</b> | 2026 – Present</summary>
-
-- Leading technical team activities at GLA University.
-- Contributing to the official club website using React.js.
-- Coordinating feature development and Git/GitHub workflows.
-
-</details>
-
----
-
-<!-- ================= PROJECTS ================= -->
-
-## `$ featured-projects`
+## EXPERIENCE
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
-### 💊 MediStock
+**INFOSYS SPRINGBOARD**
 
-**Medical Inventory Management System**
+Java Developer Intern · Virtual Internship 7.0
 
-`Java` `Spring Boot` `PostgreSQL` `React`
+June 2026 – August 2026
 
-- Medicine inventory and expiry tracking.
-- JWT & Spring Security.
-- Barcode tracking and automated reorder.
-- POS billing, OCR and voice search.
-
-</td>
-<td width="50%">
-
-### 🚀 CoachCode.ai
-
-**Placement Preparation Platform**
-
-`React` `Node.js` `Express` `MySQL`
-
-- Student, Faculty and Admin roles.
-- JWT authentication and REST APIs.
-- Coding practice and mock tests.
-- Study materials and smart notes.
-
-[View Repository →](https://github.com/Sumaanshcodes/CoachCode.ai)
+- Developed MediStock using Java, Spring Boot and PostgreSQL.
+- Worked on REST APIs and JWT authentication.
+- Contributed to role-based access and inventory management.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td>
 
-### ⚡ Ignix 2.0
+**HACK4TECH CLUB — GLA UNIVERSITY**
 
-**Event Management Platform**
+Technical Team Lead · 2026 – Present
 
-`React` `Vite` `Supabase`
-
-- Digital lanyard generation.
-- QR-based attendance tracking.
-- Admin dashboard.
-- CSV report generation.
-
-[Live Website →](https://ignix-2-0.vercel.app/)
-
-</td>
-<td width="50%">
-
-### 🧩 What I'm Building
-
-**Backend Engineering Journey**
-
-- Advanced Spring Boot.
-- Microservices architecture.
-- Docker and cloud deployment.
-- Data Structures & Algorithms.
+- Leading technical team activities.
+- Developing the official club website using React.js.
+- Coordinating development and GitHub workflows.
 
 </td>
 </tr>
@@ -182,71 +114,124 @@ public class SumanshYadav {
 
 ---
 
-<!-- ================= ACHIEVEMENTS ================= -->
-
-## `$ achievements`
+## FEATURED PROJECTS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/7th%20Position-VisionX%20Hackathon-FFD700?style=for-the-badge"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:061526,100:164E63&height=85&section=header&text=THINGS%20I%20HAVE%20BUILT&fontSize=25&fontColor=67E8F9"/>
 
-<img src="https://img.shields.io/badge/Rank%201287%20%2F%203062-HackerRank%20Orchestrate-06B6D4?style=for-the-badge"/>
+</div>
 
-<img src="https://img.shields.io/badge/Selected-IIT%20Jodhpur%20Ideathon-8B5CF6?style=for-the-badge"/>
+### 01 / MEDISTOCK
+
+**Medical Inventory & Management System**
+
+`JAVA` `SPRING BOOT` `SPRING SECURITY` `POSTGRESQL` `REACT`
+
+A full-stack medical inventory platform designed to simplify pharmacy operations.
+
+- Medicine and expiry tracking.
+- Secure JWT authentication.
+- Role-based authorization.
+- Barcode tracking and automated reorder.
+- POS billing and supplier management.
+- OCR and voice search.
+
+### 02 / COACHCODE.AI
+
+**Placement Preparation Platform**
+
+`REACT` `NODE.JS` `EXPRESS` `MYSQL` `SEQUELIZE`
+
+A multi-role placement preparation platform for students and faculty.
+
+- Student, Faculty and Admin portals.
+- JWT authentication and REST APIs.
+- Coding practice and mock tests.
+- Study materials and smart notes.
+
+[↗ View GitHub Repository](https://github.com/Sumaanshcodes/CoachCode.ai)
+
+### 03 / IGNIX 2.0
+
+**Event Management Platform**
+
+`REACT` `VITE` `SUPABASE`
+
+A digital event management system with registration and attendance functionality.
+
+- Student registration.
+- Digital lanyard generation.
+- QR-based attendance.
+- Admin dashboard and CSV reports.
+
+[↗ Live Website](https://ignix-2-0.vercel.app/)
+
+[↗ My Portfolio](https://sumaanshcodes.vercel.app/)
+
+---
+
+## GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sumaanshcodes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumaanshcodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Sumaanshcodes&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sumaanshcodes&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## ACHIEVEMENTS & RECOGNITION
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/7th%20Position-VisionX%20Hackathon-0891B2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/1287%20%2F%203062-HackerRank%20Orchestrate-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Selected-IIT%20Jodhpur%20Ideathon-7C3AED?style=for-the-badge"/>
 
 </div>
 
 - 7th Position — VisionX 8-Hour Hackathon.
-- Rank 1287 out of 3062 — HackerRank Orchestrate.
+- Rank 1287/3062 — HackerRank Orchestrate, 2026.
 - Selected Participant — Ideathon Prometeo'26, IIT Jodhpur.
 - Participant — Dev!@thon 2025, GLA University.
 
 ---
 
-<!-- ================= CERTIFICATIONS ================= -->
-
-## `$ certifications`
+## CERTIFICATIONS
 
 - Infosys Springboard — Java Development Internship 7.0
-- HackerRank — Java (Basic)
-- HackerRank — SQL (Basic)
+- HackerRank — Java Basic
+- HackerRank — SQL Basic
 - NPTEL — Software Engineering
 - TCS iON — AI & Cybersecurity Awareness
 - HackerRank — Orchestrate Certificate of Achievement
 
 ---
 
-<!-- ================= GITHUB ANALYTICS ================= -->
+## EDUCATION
 
-## `$ github-analytics`
+**GLA UNIVERSITY, MATHURA**
 
-<div align="center">
+B.Tech — Computer Science & Engineering
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sumaanshcodes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+2024 – 2028 | 73.4%
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumaanshcodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+**NAV JAGRITI PUBLIC SCHOOL, FIROZABAD**
 
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Sumaanshcodes&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sumaanshcodes&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" />
-
-</div>
-
----
-
-<!-- ================= TROPHIES ================= -->
-
-## `$ github-trophies`
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Sumaanshcodes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-
-</div>
+Intermediate — 81.2% | High School — 87%
 
 ---
 
@@ -254,24 +239,24 @@ public class SumanshYadav {
 
 <div align="center">
 
-## Let's Connect & Build Something Great
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:061526,50:0C2945,100:164E63&height=150&section=footer&text=LET%27S%20CONNECT&fontSize=34&fontColor=67E8F9&desc=Have%20an%20idea%3F%20Let%27s%20build%20something%20great.&descSize=13&descColor=BAE6FD&descAlignY=75"/>
 
 <a href="https://linkedin.com/in/sumanshyadav">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:sumanshyadav.1807@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/Sumaanshcodes">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://sumaanshcodes.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=vercel"/>
 </a>
 
 <br/><br/>
 
-**"First solve the problem, then write the code."**
+**CODE. BUILD. LEARN. REPEAT.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1E3A8A,100:0F172A&height=110&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,50:0F2747,100:020617&height=100&section=footer"/>
 
 </div>
