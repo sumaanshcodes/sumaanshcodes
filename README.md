@@ -1,112 +1,88 @@
 
-<!-- ================= HERO SECTION ================= -->
+<!-- =============== HERO =============== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:0F2747,100:0891B2&height=250&section=header&text=SUMANSH%20YADAV&fontSize=55&fontColor=E0F2FE&fontAlignY=40&desc=ASPIRING%20SOFTWARE%20ENGINEER%20%7C%20JAVA%20BACKEND%20DEVELOPER&descSize=15&descAlignY=65&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:050816,45:101D3A,100:075985&text=SUMANSH%20YADAV&fontSize=52&fontColor=FFFFFF&fontAlignY=45&desc=BUILDING%20BACKEND%20SYSTEMS%20%7C%20CREATING%20DIGITAL%20EXPERIENCES&descSize=12&descColor=67E8F9&descAlignY=72"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Designing+Secure+Backend+Systems;Building+RESTful+APIs+with+Spring+Boot;Java+%7C+Spring+Security+%7C+PostgreSQL;Full+Stack+Development+%7C+React+%7C+Node.js;Turning+Ideas+Into+Working+Software"/>
+<table border="0">
+<tr>
+<td width="32%" align="center" valign="middle">
 
-<br/><br/>
+<img src="https://github.com/Sumaanshcodes.png" width="190" style="border-radius:50%;" alt="Sumansh Yadav"/>
 
-<a href="https://sumaanshcodes.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</td>
+<td width="68%" valign="middle">
+
+# Hey, I'm Sumansh! 👋
+
+### Java Backend Developer | Software Engineer
+
+I love turning ideas into functional software.
+
+I build backend applications, design REST APIs and explore technologies that solve real-world problems.
+
+**Currently exploring:** Spring Boot · Microservices · System Design
+
+<br/>
+
+<a href="https://sumaanshcodes.vercel.app">
+<img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-Visit-0891B2?style=for-the-badge"/>
 </a>
-<a href="https://github.com/Sumaanshcodes">
-<img src="https://img.shields.io/badge/GITHUB-Explore%20Projects-1E293B?style=for-the-badge&logo=github"/>
-</a>
+
 <a href="https://linkedin.com/in/sumanshyadav">
 <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<br/><br/>
+</td>
+</tr>
+</table>
 
-<img src="https://komarev.com/ghpvc/?username=Sumaanshcodes&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Java+%26+Spring+Boot+Enthusiast;Building+Secure+REST+APIs;Backend+Development+%7C+Full+Stack;Code.+Create.+Experiment.+Repeat." />
 
 </div>
 
 ---
 
-<!-- ================= BACKEND BANNER ================= -->
+<!-- =============== VISUAL BANNER =============== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:061526,50:0C2945,100:164E63&height=130&section=header&text=BACKEND%20ENGINEERING&fontSize=32&fontColor=67E8F9&fontAlignY=40&desc=JAVA%20%2F%20SPRING%20BOOT%20%2F%20REST%20APIs%20%2F%20DATABASES&descSize=12&descColor=BAE6FD&descAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:030712,50:102A43,100:164E63&text=BEHIND%20EVERY%20GREAT%20APP&fontSize=27&fontColor=67E8F9&desc=THERE%27S%20A%20POWERFUL%20BACKEND&descSize=13&descColor=BAE6FD&descAlignY=75"/>
 
 </div>
 
-## ABOUT ME
-
-I'm a Computer Science undergraduate at **GLA University, Mathura**, passionate about backend engineering and building practical software solutions.
-
-My primary focus is Java backend development, with hands-on experience in Spring Boot, Spring Security, REST APIs and database integration.
-
-- 🎓 B.Tech CSE | 2024–2028
-- 💻 Backend-focused software developer.
-- 🔐 Interested in secure APIs and scalable applications.
-- 🚀 Experience building full-stack applications.
-- 🌱 Exploring Microservices, Docker and System Design.
-
----
-
-## TECHNICAL EXPERTISE
-
-<div align="center">
-
-### PROGRAMMING LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=java,js,mysql&theme=dark"/>
-
-### BACKEND TECHNOLOGIES
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark"/>
-
-### FRONTEND DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark"/>
-
-### DATABASES & ORM
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark"/>
-
-### DEVELOPMENT TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,maven,idea,vscode,docker&theme=dark"/>
-
-</div>
-
----
-
-## EXPERIENCE
+## ◈ What I Do
 
 <table>
 <tr>
-<td>
+<td width="33%" align="center">
 
-**INFOSYS SPRINGBOARD**
+<img src="https://img.icons8.com/fluency/96/code.png" width="48"/>
 
-Java Developer Intern · Virtual Internship 7.0
+**Backend Engineering**
 
-June 2026 – August 2026
-
-- Developed MediStock using Java, Spring Boot and PostgreSQL.
-- Worked on REST APIs and JWT authentication.
-- Contributed to role-based access and inventory management.
+<sub>Building APIs, authentication systems and application logic.</sub>
 
 </td>
-</tr>
-<tr>
-<td>
+<td width="33%" align="center">
 
-**HACK4TECH CLUB — GLA UNIVERSITY**
+<img src="https://img.icons8.com/fluency/96/database.png" width="48"/>
 
-Technical Team Lead · 2026 – Present
+**Database Design**
 
-- Leading technical team activities.
-- Developing the official club website using React.js.
-- Coordinating development and GitHub workflows.
+<sub>Working with SQL, relational databases and data management.</sub>
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/fluency/96/web.png" width="48"/>
+
+**Full Stack Development**
+
+<sub>Connecting modern interfaces with powerful backends.</sub>
 
 </td>
 </tr>
@@ -114,70 +90,164 @@ Technical Team Lead · 2026 – Present
 
 ---
 
-## FEATURED PROJECTS
+## ◈ My Tech Universe
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:061526,100:164E63&height=85&section=header&text=THINGS%20I%20HAVE%20BUILT&fontSize=25&fontColor=67E8F9"/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,js,react,html,css,tailwind,mysql,postgres,mongodb,git,github,postman,docker,idea,vscode&theme=dark&perline=9"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FOCUS-Backend%20Development-0E7490?style=flat-square"/>
+<img src="https://img.shields.io/badge/PRIMARY%20LANGUAGE-Java-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/FRAMEWORK-Spring%20Boot-16A34A?style=flat-square"/>
 
 </div>
 
-### 01 / MEDISTOCK
+---
 
-**Medical Inventory & Management System**
+## ◈ Featured Creations
 
-`JAVA` `SPRING BOOT` `SPRING SECURITY` `POSTGRESQL` `REACT`
+<div align="center">
 
-A full-stack medical inventory platform designed to simplify pharmacy operations.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=85&color=0:0F172A,100:164E63&text=SELECTED%20PROJECTS&fontSize=25&fontColor=67E8F9"/>
 
-- Medicine and expiry tracking.
-- Secure JWT authentication.
-- Role-based authorization.
-- Barcode tracking and automated reorder.
-- POS billing and supplier management.
-- OCR and voice search.
+</div>
 
-### 02 / COACHCODE.AI
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💊 MediStock
+
+**Medical Inventory System**
+
+<img src="https://img.shields.io/badge/Java-Spring%20Boot-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Database-PostgreSQL-2563EB?style=flat-square"/>
+
+A smart pharmacy inventory management platform.
+
+- Medicine & expiry tracking
+- JWT authentication
+- Barcode management
+- Automated reorder
+- POS billing & OCR
+- Voice search
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 CoachCode.ai
 
 **Placement Preparation Platform**
 
-`REACT` `NODE.JS` `EXPRESS` `MYSQL` `SEQUELIZE`
+<img src="https://img.shields.io/badge/Node.js-Express-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Database-MySQL-2563EB?style=flat-square"/>
 
-A multi-role placement preparation platform for students and faculty.
+A platform designed to improve placement preparation.
 
-- Student, Faculty and Admin portals.
-- JWT authentication and REST APIs.
-- Coding practice and mock tests.
-- Study materials and smart notes.
+- Multi-role authentication
+- Coding practice
+- Mock tests
+- Smart notes
+- Study materials
+- REST APIs
 
-[↗ View GitHub Repository](https://github.com/Sumaanshcodes/CoachCode.ai)
+[↗ Explore Repository](https://github.com/Sumaanshcodes/CoachCode.ai)
 
-### 03 / IGNIX 2.0
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Ignix 2.0
 
 **Event Management Platform**
 
-`REACT` `VITE` `SUPABASE`
+<img src="https://img.shields.io/badge/React-Vite-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend-Supabase-16A34A?style=flat-square"/>
 
-A digital event management system with registration and attendance functionality.
+A digital platform for managing events.
 
-- Student registration.
-- Digital lanyard generation.
-- QR-based attendance.
-- Admin dashboard and CSV reports.
+- Student registration
+- Digital lanyards
+- QR attendance
+- Admin dashboard
+- CSV reports
 
-[↗ Live Website](https://ignix-2-0.vercel.app/)
+[↗ Visit Live Website](https://ignix-2-0.vercel.app/)
 
-[↗ My Portfolio](https://sumaanshcodes.vercel.app/)
+</td>
+<td width="50%" valign="top">
+
+### 🛡 Incident Management
+
+**Incident Tracking System**
+
+<img src="https://img.shields.io/badge/Java-Spring%20Boot-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Security-JWT-7C3AED?style=flat-square"/>
+
+A backend-focused incident management application.
+
+- Secure authentication
+- Role-based access
+- Incident tracking
+- REST API architecture
+- Database integration
+
+[↗ Explore Repository](https://github.com/Sumaanshcodes/Incident-system)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/Sumaanshcodes?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-0891B2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## GITHUB ANALYTICS
+## ◈ Currently In My Lab
+
+<table>
+<tr>
+<td width="50%">
+
+**01 — Learning**
+
+- Advanced Spring Boot
+- Microservices Architecture
+- Docker & Cloud
+- System Design
+
+</td>
+<td width="50%">
+
+**02 — Exploring**
+
+- Backend Architecture
+- API Security
+- Database Optimization
+- Open Source Development
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ GitHub Activity
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sumaanshcodes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumaanshcodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumaanshcodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 <br/><br/>
 
@@ -185,78 +255,51 @@ A digital event management system with registration and attendance functionality
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sumaanshcodes&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sumaanshcodes&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
 ---
 
-## ACHIEVEMENTS & RECOGNITION
+## ◈ Beyond The Code
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/7th%20Position-VisionX%20Hackathon-0891B2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/1287%20%2F%203062-HackerRank%20Orchestrate-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Selected-IIT%20Jodhpur%20Ideathon-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏆_VisionX-7th%20Position-0E7490?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡_HackerRank-1287%20%2F%203062-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_Prometeo%2726-IIT%20Jodhpur-7C3AED?style=for-the-badge"/>
 
 </div>
 
-- 7th Position — VisionX 8-Hour Hackathon.
-- Rank 1287/3062 — HackerRank Orchestrate, 2026.
-- Selected Participant — Ideathon Prometeo'26, IIT Jodhpur.
-- Participant — Dev!@thon 2025, GLA University.
-
 ---
 
-## CERTIFICATIONS
-
-- Infosys Springboard — Java Development Internship 7.0
-- HackerRank — Java Basic
-- HackerRank — SQL Basic
-- NPTEL — Software Engineering
-- TCS iON — AI & Cybersecurity Awareness
-- HackerRank — Orchestrate Certificate of Achievement
-
----
-
-## EDUCATION
-
-**GLA UNIVERSITY, MATHURA**
-
-B.Tech — Computer Science & Engineering
-
-2024 – 2028 | 73.4%
-
-**NAV JAGRITI PUBLIC SCHOOL, FIROZABAD**
-
-Intermediate — 81.2% | High School — 87%
-
----
-
-<!-- ================= CONNECT ================= -->
+<!-- =============== CONNECT =============== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:061526,50:0C2945,100:164E63&height=150&section=footer&text=LET%27S%20CONNECT&fontSize=34&fontColor=67E8F9&desc=Have%20an%20idea%3F%20Let%27s%20build%20something%20great.&descSize=13&descColor=BAE6FD&descAlignY=75"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:020617,50:0C2945,100:0891B2&text=LET%27S%20BUILD%20SOMETHING&fontSize=29&fontColor=FFFFFF&desc=Open%20to%20collaboration%20%7C%20Ideas%20%7C%20Opportunities&descSize=13&descColor=BAE6FD&descAlignY=72"/>
+
+<br/>
 
 <a href="https://linkedin.com/in/sumanshyadav">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-
 <a href="mailto:sumanshyadav.1807@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
-
-<a href="https://sumaanshcodes.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=vercel"/>
+<a href="https://sumaanshcodes.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel"/>
+</a>
+<a href="https://github.com/Sumaanshcodes">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <br/><br/>
 
-**CODE. BUILD. LEARN. REPEAT.**
+**"Great software is built one commit at a time."**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,50:0F2747,100:020617&height=100&section=footer"/>
+<sub>Thanks for stopping by! ⭐</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0891B2,50:0F2747,100:020617&section=footer"/>
 
 </div>
