@@ -1,203 +1,148 @@
+
 <div align="center">
-# Hi 👋, I'm Sumansh Yadav  
 
-### Backend-Focused Full Stack Developer | Java | Spring Boot | Node.js | REST APIs
+# Sumansh Yadav
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+Focused+Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;Node.js+%7C+REST+API+Developer;Open+Source+Contributor;Always+Learning+New+Technologies" />
+**Aspiring Software Engineer | Java Backend Developer**
 
-<p>
-<a href="https://github.com/Sumaanshcodes"><img src="https://img.shields.io/github/followers/Sumaanshcodes?label=Followers&style=for-the-badge"/></a>
-<a href="https://github.com/Sumaanshcodes"><img src="https://img.shields.io/github/stars/Sumaanshcodes?affiliations=OWNER&style=for-the-badge"/></a>
-<img src="https://komarev.com/ghpvc/?username=Sumaanshcodes&style=for-the-badge&color=blue"/>
-</p>
+Building backend systems, REST APIs & full-stack applications.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sumaanshcodes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumanshyadav)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sumanshyadav.1807@gmail.com)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## About
 
-🎓 B.Tech Computer Science & Engineering student at **GLA University, Mathura**
+I'm a Computer Science undergraduate at **GLA University, Mathura**, interested in backend engineering and software development.
 
-💻 Passionate about designing scalable backend applications using **Java, Spring Boot, Node.js, Express.js and REST APIs.**
+- Java backend development with Spring Boot.
+- Building secure REST APIs and role-based applications.
+- Working with relational and NoSQL databases.
+- Experience with React.js and Node.js for full-stack development.
+- Interested in system design, scalable applications and open-source development.
 
-🔐 Interested in
-
-- Backend Development
-- Software Engineering
-- API Design
-- System Design
-- Cloud Computing
-- Open Source
-
-🌱 Currently Learning
-
-- Advanced Spring Boot
-- Microservices
-- Docker
-- AWS
-- Open Source Development
-- Data Structures & Algorithms
+Currently exploring **Microservices, Docker, Cloud Computing and Advanced Spring Boot.**
 
 ---
 
-# 🚀 Tech Stack
+## Tech Stack
 
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,sql"/>
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css"/>
-</p>
-
-## Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
-</p>
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,docker"/>
-</p>
+| Category | Technologies |
+|---|---|
+| Languages | Java, JavaScript, SQL |
+| Backend | Spring Boot, Spring Security, Node.js, Express.js, REST APIs, JWT |
+| Frontend | React.js, HTML5, CSS3, Tailwind CSS |
+| Databases | MySQL, PostgreSQL, MongoDB |
+| ORM | Spring Data JPA, Hibernate, Sequelize |
+| Tools | Git, GitHub, Postman, Maven, IntelliJ IDEA, VS Code |
 
 ---
 
-# ⭐ Featured Projects
+## Experience
 
-## 🚀 CoachCode.ai
+**Infosys Springboard — Java Developer Intern**  
+*Virtual Internship 7.0 · June 2026 – August 2026*
 
-### Placement Preparation Platform
+- Worked on MediStock using Java, Spring Boot and PostgreSQL.
+- Contributed to REST APIs, JWT authentication and role-based access.
+- Worked on inventory management functionality.
 
-**Tech Stack**
+**Hack4Tech Club — Technical Team Lead**  
+*GLA University · 2026 – Present*
 
-React • Node.js • Express.js • MySQL • Sequelize • JWT • Multer
-
-### Features
-
-- Multi-role Authentication (Student, Faculty & Admin)
-- Secure JWT Authentication
-- RESTful APIs
-- Coding Practice
-- Mock Tests
-- Study Materials
-- Smart Notes
-- File Upload System
-- Responsive React Frontend
-
-🔗 Repository
-
-https://github.com/Sumaanshcodes/CoachCode.ai
+- Leading technical team activities.
+- Contributing to the official club website using React.js.
+- Coordinating feature development and Git/GitHub workflows.
 
 ---
 
-## 💊 MediStock
+## Featured Projects
 
-### Pharmacy Management System
+### MediStock — Medical Inventory Management System
 
-**Tech Stack**
+`Java` `Spring Boot` `Spring Security` `PostgreSQL` `React`
 
-Java • Spring Boot • Spring Security • PostgreSQL • React
+- Full-stack medical inventory management platform.
+- Medicine tracking, expiry and supplier management.
+- JWT authentication and role-based authorization.
+- Barcode tracking and automated reorder.
+- POS billing, medicine alternatives, OCR and voice search.
 
-### Features
+### CoachCode.ai — Placement Preparation Platform
 
-- Inventory Management
-- Sales & Billing
-- Barcode Support
-- Medicine Image Upload
-- Role Based Authentication
-- JWT Security
-- Low Stock Alerts
-- Purchase Management
-- Dashboard Analytics
+`React` `Node.js` `Express.js` `MySQL` `Sequelize` `JWT`
 
----
+- Multi-role platform for Students, Faculty and Admin.
+- Secure authentication and REST APIs.
+- Coding practice and mock tests.
+- Study materials and smart notes.
 
-## 🛡 Incident Management System
+[View Repository](https://github.com/Sumaanshcodes/CoachCode.ai)
 
-**Tech Stack**
+### Ignix 2.0 — Event Management Platform
 
-Java • Spring Boot • Spring Security • JWT • MySQL • React
+`React` `Vite` `Supabase`
 
-### Features
+- Student registration and digital lanyard generation.
+- QR-based attendance tracking.
+- Admin portal for student verification.
+- Attendance management and CSV reports.
 
-- Secure Login
-- Role Based Access
-- Incident Tracking
-- REST APIs
-- Layered Architecture
-- JWT Authentication
-- MySQL Database Integration
-
-🔗 Repository
-
-https://github.com/Sumaanshcodes/Incident-system
+[Live Website](https://ignix-2-0.vercel.app/)
 
 ---
 
+## Achievements
 
-# 📜 Certifications
+- **7th Position** — VisionX 8-Hour Hackathon.
+- **Rank 1287 / 3062** — HackerRank Orchestrate, September 2026.
+- Selected Participant — Ideathon Prometeo'26, IIT Jodhpur.
+- Participant — Dev!@thon 2025, GLA University.
 
-- AWS Cloud Practitioner Essentials
+---
+
+## Certifications
+
+- Infosys Springboard Virtual Internship 7.0 — Java Development
 - Java (Basic) — HackerRank
 - SQL (Basic) — HackerRank
 - Software Engineering — NPTEL
-- AI & Cybersecurity Awareness — TCS iON
+- AI and Cybersecurity Awareness — TCS iON
+- HackerRank Orchestrate — Certificate of Achievement
 
 ---
 
-# 📊 Contribution Graph
+## Education
 
-[![Sumansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sumaanshcodes&theme=tokyo-night)](https://github.com/Sumaanshcodes)
+**GLA University, Mathura**  
+B.Tech — Computer Science & Engineering | 2024–2028
 
----
-
-# 💻 Currently Working On
-
-- Spring Boot Backend
-- MediStock
-- Open Source Contributions
-- DSA
-- System Design
+**CGPA / Percentage: 73.4%**
 
 ---
 
-# 🤝 Let's Connect
+## GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<a href="https://linkedin.com/in/sumanshyadav">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sumaanshcodes&show_icons=true&hide_border=true&theme=transparent" />
 
-<a href="mailto:sumanshyadav.1807@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumaanshcodes&layout=compact&hide_border=true&theme=transparent" />
 
-<a href="https://github.com/Sumaanshcodes">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sumaanshcodes&theme=github-compact&hide_border=true)](https://github.com/Sumaanshcodes)
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ "Code. Learn. Build. Repeat."
+**Building. Learning. Improving.**
 
-Thanks for visiting my profile ❤️
+*Always curious. Always creating.*
 
 </div>
